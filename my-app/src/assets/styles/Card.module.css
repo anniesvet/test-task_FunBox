@@ -1,0 +1,55 @@
+
+.card {
+    width: 320px;
+    height: 509px;
+    margin: 104px 80px 67px 80px;
+    text-align: left;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card_main {
+    padding: 21px 61px 305px 48px;
+}
+
+.top_text {
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.main_title {
+    font-size: 48px;
+    margin: 0;
+    padding: 0;
+}
+
+.main_taste {
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+.main_condition,
+.main_portion {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.down_text {
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
+
+.down_text_blue {
+    color: #1698D9;
+    border-bottom: 1px dotted #1698D9;
+}
